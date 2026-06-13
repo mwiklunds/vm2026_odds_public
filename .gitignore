@@ -1,0 +1,5 @@
+# Raw odds snapshots
+data/raw_vm_odds_*.json
+
+# Keep latest JSON
+!data/raw_vm_odds_latest.json
