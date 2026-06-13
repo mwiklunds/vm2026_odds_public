@@ -1,0 +1,257 @@
+[
+  {
+    "id": "26634922d3f78c146440816023e40de8",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-13T19:00:00Z",
+    "home_team": "Qatar",
+    "away_team": "Switzerland",
+    "bookmakers": [
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": "2026-06-13T17:26:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Qatar",
+                "price": 16.5
+              },
+              {
+                "name": "Switzerland",
+                "price": 1.2
+              },
+              {
+                "name": "Draw",
+                "price": 6.9
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.65,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 2.28,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f6c8748a16516e0998f95de14235432a",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-13T22:00:00Z",
+    "home_team": "Brazil",
+    "away_team": "Morocco",
+    "bookmakers": [
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": "2026-06-13T17:26:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Brazil",
+                "price": 1.7
+              },
+              {
+                "name": "Morocco",
+                "price": 5.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.2,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 1.7,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5ae41a06735c926eeb7f74006933adce",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-14T01:00:00Z",
+    "home_team": "Haiti",
+    "away_team": "Scotland",
+    "bookmakers": [
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": "2026-06-13T17:26:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Haiti",
+                "price": 5.95
+              },
+              {
+                "name": "Scotland",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 4.45
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.65,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 2.28,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "564084f52cc9f1abcc18187c168a7cdc",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-14T04:00:00Z",
+    "home_team": "Australia",
+    "away_team": "Turkey",
+    "bookmakers": [
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": "2026-06-13T17:26:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Australia",
+                "price": 5.35
+              },
+              {
+                "name": "Turkey",
+                "price": 1.72
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.02,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 1.82,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d79edbd6aaeb578d33e313446b18d333",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-14T17:00:00Z",
+    "home_team": "Germany",
+    "away_team": "Curaçao",
+    "bookmakers": [
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": "2026-06-13T17:26:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Curaçao",
+                "price": 90.0
+              },
+              {
+                "name": "Germany",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-13T17:26:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.19,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 4.9,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
