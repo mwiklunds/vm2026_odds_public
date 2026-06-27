@@ -1,407 +1,5 @@
 [
   {
-    "id": "b86b4d60f773e9e3c46c00e9a6496e79",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-26T19:00:00Z",
-    "home_team": "Norway",
-    "away_team": "France",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "France",
-                "price": 1.65
-              },
-              {
-                "name": "Norway",
-                "price": 4.65
-              },
-              {
-                "name": "Draw",
-                "price": 4.74
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "France",
-                "price": 2.08,
-                "point": -1.0
-              },
-              {
-                "name": "Norway",
-                "price": 1.84,
-                "point": 1.0
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 2.04,
-                "point": 3.25
-              },
-              {
-                "name": "Under",
-                "price": 1.85,
-                "point": 3.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "7e6aee294ea1a4792c59558791084528",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-26T19:00:00Z",
-    "home_team": "Senegal",
-    "away_team": "Iraq",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Iraq",
-                "price": 12.0
-              },
-              {
-                "name": "Senegal",
-                "price": 1.25
-              },
-              {
-                "name": "Draw",
-                "price": 7.0
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Iraq",
-                "price": 2.03,
-                "point": 1.75
-              },
-              {
-                "name": "Senegal",
-                "price": 1.86,
-                "point": -1.75
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 2.04,
-                "point": 3.25
-              },
-              {
-                "name": "Under",
-                "price": 1.84,
-                "point": 3.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e07b1926be5a4d515c7eb108dbcee9c5",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-27T00:00:00Z",
-    "home_team": "Cape Verde",
-    "away_team": "Saudi Arabia",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Cape Verde",
-                "price": 2.74
-              },
-              {
-                "name": "Saudi Arabia",
-                "price": 2.74
-              },
-              {
-                "name": "Draw",
-                "price": 3.37
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Cape Verde",
-                "price": 1.95,
-                "point": 0.0
-              },
-              {
-                "name": "Saudi Arabia",
-                "price": 1.95,
-                "point": -0.0
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 1.95,
-                "point": 2.25
-              },
-              {
-                "name": "Under",
-                "price": 1.93,
-                "point": 2.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "dcff2e31c0bce001a4db5caaf4fa8822",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-27T00:00:00Z",
-    "home_team": "Uruguay",
-    "away_team": "Spain",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Spain",
-                "price": 1.65
-              },
-              {
-                "name": "Uruguay",
-                "price": 6.18
-              },
-              {
-                "name": "Draw",
-                "price": 3.81
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Spain",
-                "price": 1.84,
-                "point": -0.75
-              },
-              {
-                "name": "Uruguay",
-                "price": 2.08,
-                "point": 0.75
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 1.93,
-                "point": 2.25
-              },
-              {
-                "name": "Under",
-                "price": 1.95,
-                "point": 2.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "581691da05dcd75b5c6d3be91ee9d2ab",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-27T03:00:00Z",
-    "home_team": "New Zealand",
-    "away_team": "Belgium",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Belgium",
-                "price": 1.19
-              },
-              {
-                "name": "New Zealand",
-                "price": 16.0
-              },
-              {
-                "name": "Draw",
-                "price": 8.0
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Belgium",
-                "price": 2.01,
-                "point": -2.25
-              },
-              {
-                "name": "New Zealand",
-                "price": 1.87,
-                "point": 2.25
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 1.97,
-                "point": 3.5
-              },
-              {
-                "name": "Under",
-                "price": 1.88,
-                "point": 3.5
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "3e3b5fa2b3c963e74cf044c60db0b573",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-06-27T03:00:00Z",
-    "home_team": "Egypt",
-    "away_team": "Iran",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Egypt",
-                "price": 2.55
-              },
-              {
-                "name": "Iran",
-                "price": 3.89
-              },
-              {
-                "name": "Draw",
-                "price": 2.64
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Egypt",
-                "price": 2.08,
-                "point": -0.25
-              },
-              {
-                "name": "Iran",
-                "price": 1.83,
-                "point": 0.25
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 1.79,
-                "point": 1.75
-              },
-              {
-                "name": "Under",
-                "price": 2.13,
-                "point": 1.75
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "537c0997cd899394f47f16545b7068b2",
     "sport_key": "soccer_fifa_world_cup",
     "sport_title": "FIFA World Cup",
@@ -412,54 +10,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Croatia",
-                "price": 1.76
+                "price": 1.94
               },
               {
                 "name": "Ghana",
-                "price": 5.95
+                "price": 5.26
               },
               {
                 "name": "Draw",
-                "price": 3.26
+                "price": 3.13
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Croatia",
-                "price": 2.0,
-                "point": -0.75
+                "price": 1.94,
+                "point": -0.5
               },
               {
                 "name": "Ghana",
-                "price": 1.88,
-                "point": 0.75
+                "price": 1.98,
+                "point": 0.5
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.01,
+                "price": 2.11,
                 "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.87,
+                "price": 1.81,
                 "point": 2.25
               }
             ]
@@ -479,54 +77,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "England",
-                "price": 1.16
+                "price": 1.17
               },
               {
                 "name": "Panama",
-                "price": 15.5
+                "price": 15.46
               },
               {
                 "name": "Draw",
-                "price": 8.15
+                "price": 8.35
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "England",
-                "price": 2.06,
+                "price": 2.04,
                 "point": -2.25
               },
               {
                 "name": "Panama",
-                "price": 1.83,
+                "price": 1.87,
                 "point": 2.25
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.92,
+                "price": 1.93,
                 "point": 3.25
               },
               {
                 "name": "Under",
-                "price": 1.93,
+                "price": 1.96,
                 "point": 3.25
               }
             ]
@@ -546,55 +144,55 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Colombia",
-                "price": 4.12
+                "price": 3.54
               },
               {
                 "name": "Portugal",
-                "price": 1.87
+                "price": 2.05
               },
               {
                 "name": "Draw",
-                "price": 3.81
+                "price": 3.96
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Colombia",
-                "price": 2.02,
+                "price": 1.88,
                 "point": 0.5
               },
               {
                 "name": "Portugal",
-                "price": 1.88,
+                "price": 2.05,
                 "point": -0.5
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.06,
-                "point": 2.5
+                "price": 2.05,
+                "point": 2.75
               },
               {
                 "name": "Under",
-                "price": 1.83,
-                "point": 2.5
+                "price": 1.86,
+                "point": 2.75
               }
             ]
           }
@@ -613,55 +211,55 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "DR Congo",
-                "price": 1.73
+                "price": 1.63
               },
               {
                 "name": "Uzbekistan",
-                "price": 4.39
+                "price": 5.6
               },
               {
                 "name": "Draw",
-                "price": 4.21
+                "price": 4.3
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "DR Congo",
-                "price": 1.97,
+                "price": 1.81,
                 "point": -0.75
               },
               {
                 "name": "Uzbekistan",
-                "price": 1.92,
+                "price": 2.14,
                 "point": 0.75
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.93,
-                "point": 2.5
+                "price": 1.89,
+                "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.94,
-                "point": 2.5
+                "price": 2.02,
+                "point": 2.25
               }
             ]
           }
@@ -680,54 +278,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Algeria",
-                "price": 4.07
+                "price": 4.18
               },
               {
                 "name": "Austria",
-                "price": 2.86
+                "price": 3.03
               },
               {
                 "name": "Draw",
-                "price": 2.12
+                "price": 2.1
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Algeria",
-                "price": 1.65,
-                "point": 0.25
+                "price": 2.33,
+                "point": 0.0
               },
               {
                 "name": "Austria",
-                "price": 2.25,
-                "point": -0.25
+                "price": 1.67,
+                "point": -0.0
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.78,
+                "price": 2.0,
                 "point": 1.75
               },
               {
                 "name": "Under",
-                "price": 2.06,
+                "price": 1.88,
                 "point": 1.75
               }
             ]
@@ -747,55 +345,55 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Argentina",
-                "price": 1.18
+                "price": 1.16
               },
               {
                 "name": "Jordan",
-                "price": 14.54
+                "price": 17.84
               },
               {
                 "name": "Draw",
-                "price": 7.74
+                "price": 8.73
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Argentina",
-                "price": 1.98,
-                "point": -2.0
+                "price": 2.04,
+                "point": -2.25
               },
               {
                 "name": "Jordan",
                 "price": 1.88,
-                "point": 2.0
+                "point": 2.25
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.91,
-                "point": 3.0
+                "price": 2.07,
+                "point": 3.25
               },
               {
                 "name": "Under",
-                "price": 1.94,
-                "point": 3.0
+                "price": 1.83,
+                "point": 3.25
               }
             ]
           }
@@ -814,54 +412,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Canada",
-                "price": 1.7
+                "price": 1.72
               },
               {
                 "name": "South Africa",
-                "price": 5.6
+                "price": 5.58
               },
               {
                 "name": "Draw",
-                "price": 3.68
+                "price": 3.64
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Canada",
-                "price": 1.93,
+                "price": 1.95,
                 "point": -0.75
               },
               {
                 "name": "South Africa",
-                "price": 1.97,
+                "price": 1.95,
                 "point": 0.75
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.97,
+                "price": 2.02,
                 "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.91,
+                "price": 1.88,
                 "point": 2.25
               }
             ]
@@ -881,55 +479,122 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Brazil",
-                "price": 1.75
+                "price": 1.7
               },
               {
                 "name": "Japan",
-                "price": 5.0
+                "price": 5.23
               },
               {
                 "name": "Draw",
-                "price": 3.8
+                "price": 3.87
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Brazil",
-                "price": 1.99,
+                "price": 1.93,
                 "point": -0.75
               },
               {
                 "name": "Japan",
-                "price": 1.92,
+                "price": 1.98,
                 "point": 0.75
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:45Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.84,
-                "point": 2.25
+                "price": 2.08,
+                "point": 2.5
               },
               {
                 "name": "Under",
-                "price": 2.06,
-                "point": 2.25
+                "price": 1.83,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4930db8e83436874d09e59bd0e29c1a5",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-29T20:30:00Z",
+    "home_team": "Germany",
+    "away_team": "Paraguay",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-06-27T07:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "Germany",
+                "price": 1.4
+              },
+              {
+                "name": "Paraguay",
+                "price": 8.09
+              },
+              {
+                "name": "Draw",
+                "price": 4.99
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "Germany",
+                "price": 1.91,
+                "point": -1.25
+              },
+              {
+                "name": "Paraguay",
+                "price": 2.0,
+                "point": 1.25
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.0,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": 1.89,
+                "point": 2.75
               }
             ]
           }
@@ -948,15 +613,15 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Morocco",
-                "price": 3.69
+                "price": 3.79
               },
               {
                 "name": "Netherlands",
@@ -964,39 +629,173 @@
               },
               {
                 "name": "Draw",
-                "price": 3.29
+                "price": 3.21
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Morocco",
-                "price": 2.04,
+                "price": 2.05,
                 "point": 0.25
               },
               {
                 "name": "Netherlands",
-                "price": 1.87,
+                "price": 1.86,
                 "point": -0.25
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.03,
+                "price": 2.02,
                 "point": 2.25
               },
               {
                 "name": "Under",
                 "price": 1.87,
                 "point": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ce017bea1a26252278053ce759e2416b",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-30T17:00:00Z",
+    "home_team": "Ivory Coast",
+    "away_team": "Norway",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-06-27T07:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Ivory Coast",
+                "price": 3.85
+              },
+              {
+                "name": "Norway",
+                "price": 2.03
+              },
+              {
+                "name": "Draw",
+                "price": 3.56
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Ivory Coast",
+                "price": 1.88,
+                "point": 0.5
+              },
+              {
+                "name": "Norway",
+                "price": 2.04,
+                "point": -0.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.99,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 1.89,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0b5491529142c9bcc3f88bf45ccb0a7b",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-06-30T21:00:00Z",
+    "home_team": "France",
+    "away_team": "Sweden",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-06-27T07:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "France",
+                "price": 1.29
+              },
+              {
+                "name": "Sweden",
+                "price": 10.65
+              },
+              {
+                "name": "Draw",
+                "price": 5.9
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "France",
+                "price": 1.88,
+                "point": -1.5
+              },
+              {
+                "name": "Sweden",
+                "price": 2.04,
+                "point": 1.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-27T07:56:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.03,
+                "point": 3.0
+              },
+              {
+                "name": "Under",
+                "price": 1.86,
+                "point": 3.0
               }
             ]
           }
@@ -1015,55 +814,189 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-06-26T08:11:43Z",
+        "last_update": "2026-06-27T07:56:45Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Bosnia & Herzegovina",
-                "price": 7.07
+                "price": 8.87
               },
               {
                 "name": "USA",
-                "price": 1.49
+                "price": 1.38
               },
               {
                 "name": "Draw",
-                "price": 4.41
+                "price": 4.94
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Bosnia & Herzegovina",
-                "price": 2.08,
-                "point": 1.0
+                "price": 2.02,
+                "point": 1.25
               },
               {
                 "name": "USA",
-                "price": 1.84,
-                "point": -1.0
+                "price": 1.88,
+                "point": -1.25
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-06-26T08:11:43Z",
+            "last_update": "2026-06-27T07:56:44Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.93,
+                "price": 1.85,
                 "point": 2.5
               },
               {
                 "name": "Under",
-                "price": 1.95,
+                "price": 2.05,
                 "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fb270a3dac2b682c861bd674a5ff4a04",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-07-03T18:00:00Z",
+    "home_team": "Australia",
+    "away_team": "Egypt",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-06-27T07:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Australia",
+                "price": 3.23
+              },
+              {
+                "name": "Egypt",
+                "price": 2.53
+              },
+              {
+                "name": "Draw",
+                "price": 3.04
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Australia",
+                "price": 1.79,
+                "point": 0.25
+              },
+              {
+                "name": "Egypt",
+                "price": 2.14,
+                "point": -0.25
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.1,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 1.81,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3e161b2448ed76d6b0c0f5bda6fd5bf2",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-07-03T22:00:00Z",
+    "home_team": "Argentina",
+    "away_team": "Cape Verde",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-06-27T07:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Argentina",
+                "price": 1.15
+              },
+              {
+                "name": "Cape Verde",
+                "price": 19.65
+              },
+              {
+                "name": "Draw",
+                "price": 8.5
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Argentina",
+                "price": 1.9,
+                "point": -2.0
+              },
+              {
+                "name": "Cape Verde",
+                "price": 2.01,
+                "point": 2.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-06-27T07:56:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.07,
+                "point": 3.0
+              },
+              {
+                "name": "Under",
+                "price": 1.83,
+                "point": 3.0
               }
             ]
           }
