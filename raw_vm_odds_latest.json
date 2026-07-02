@@ -1,206 +1,5 @@
 [
   {
-    "id": "5ff7744314f224c18d1604ee9cc19263",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-07-01T16:00:00Z",
-    "home_team": "England",
-    "away_team": "DR Congo",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "DR Congo",
-                "price": 14.5
-              },
-              {
-                "name": "England",
-                "price": 1.3
-              },
-              {
-                "name": "Draw",
-                "price": 5.3
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "DR Congo",
-                "price": 1.94,
-                "point": 1.5
-              },
-              {
-                "name": "England",
-                "price": 1.98,
-                "point": -1.5
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 2.05,
-                "point": 2.5
-              },
-              {
-                "name": "Under",
-                "price": 1.86,
-                "point": 2.5
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "658ac8cbf214ca3cc150109b4ddc1e74",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-07-01T20:00:00Z",
-    "home_team": "Belgium",
-    "away_team": "Senegal",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Belgium",
-                "price": 2.18
-              },
-              {
-                "name": "Senegal",
-                "price": 3.79
-              },
-              {
-                "name": "Draw",
-                "price": 3.34
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Belgium",
-                "price": 1.86,
-                "point": -0.25
-              },
-              {
-                "name": "Senegal",
-                "price": 2.08,
-                "point": 0.25
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 2.03,
-                "point": 2.5
-              },
-              {
-                "name": "Under",
-                "price": 1.88,
-                "point": 2.5
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "9eeb4876001f5a52ce3c3641bd5f1f2f",
-    "sport_key": "soccer_fifa_world_cup",
-    "sport_title": "FIFA World Cup",
-    "commence_time": "2026-07-02T00:00:00Z",
-    "home_team": "USA",
-    "away_team": "Bosnia & Herzegovina",
-    "bookmakers": [
-      {
-        "key": "pinnacle",
-        "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Bosnia & Herzegovina",
-                "price": 9.0
-              },
-              {
-                "name": "USA",
-                "price": 1.42
-              },
-              {
-                "name": "Draw",
-                "price": 4.8
-              }
-            ]
-          },
-          {
-            "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Bosnia & Herzegovina",
-                "price": 1.99,
-                "point": 1.25
-              },
-              {
-                "name": "USA",
-                "price": 1.93,
-                "point": -1.25
-              }
-            ]
-          },
-          {
-            "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
-            "outcomes": [
-              {
-                "name": "Over",
-                "price": 1.98,
-                "point": 2.75
-              },
-              {
-                "name": "Under",
-                "price": 1.93,
-                "point": 2.75
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "a518ac20df8f5c732b881e213ae0c230",
     "sport_key": "soccer_fifa_world_cup",
     "sport_title": "FIFA World Cup",
@@ -211,33 +10,33 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Austria",
-                "price": 10.07
+                "price": 10.85
               },
               {
                 "name": "Spain",
-                "price": 1.33
+                "price": 1.34
               },
               {
                 "name": "Draw",
-                "price": 5.32
+                "price": 5.3
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Austria",
-                "price": 1.86,
+                "price": 1.88,
                 "point": 1.5
               },
               {
@@ -249,17 +48,17 @@
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.87,
-                "point": 2.5
+                "price": 1.93,
+                "point": 2.75
               },
               {
                 "name": "Under",
-                "price": 2.02,
-                "point": 2.5
+                "price": 1.97,
+                "point": 2.75
               }
             ]
           }
@@ -278,55 +77,55 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Croatia",
-                "price": 4.87
+                "price": 5.18
               },
               {
                 "name": "Portugal",
-                "price": 1.81
+                "price": 1.77
               },
               {
                 "name": "Draw",
-                "price": 3.59
+                "price": 3.75
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Croatia",
-                "price": 1.84,
+                "price": 1.93,
                 "point": 0.75
               },
               {
                 "name": "Portugal",
-                "price": 2.08,
+                "price": 1.98,
                 "point": -0.75
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.87,
-                "point": 2.25
+                "price": 1.99,
+                "point": 2.75
               },
               {
                 "name": "Under",
-                "price": 2.02,
-                "point": 2.25
+                "price": 1.92,
+                "point": 2.75
               }
             ]
           }
@@ -345,15 +144,15 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Algeria",
-                "price": 4.17
+                "price": 4.37
               },
               {
                 "name": "Switzerland",
@@ -361,38 +160,38 @@
               },
               {
                 "name": "Draw",
-                "price": 3.28
+                "price": 3.3
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Algeria",
-                "price": 1.86,
+                "price": 1.89,
                 "point": 0.5
               },
               {
                 "name": "Switzerland",
-                "price": 2.05,
+                "price": 2.04,
                 "point": -0.5
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.91,
+                "price": 1.93,
                 "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.98,
+                "price": 1.97,
                 "point": 2.25
               }
             ]
@@ -412,54 +211,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Australia",
-                "price": 3.44
+                "price": 3.4
               },
               {
                 "name": "Egypt",
-                "price": 2.51
+                "price": 2.52
               },
               {
                 "name": "Draw",
-                "price": 2.91
+                "price": 2.92
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Australia",
-                "price": 1.82,
+                "price": 1.81,
                 "point": 0.25
               },
               {
                 "name": "Egypt",
-                "price": 2.1,
+                "price": 2.12,
                 "point": -0.25
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.12,
+                "price": 2.08,
                 "point": 2.0
               },
               {
                 "name": "Under",
-                "price": 1.79,
+                "price": 1.83,
                 "point": 2.0
               }
             ]
@@ -479,54 +278,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Argentina",
-                "price": 1.17
+                "price": 1.16
               },
               {
                 "name": "Cape Verde",
-                "price": 18.64
+                "price": 19.49
               },
               {
                 "name": "Draw",
-                "price": 8.09
+                "price": 8.29
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Argentina",
-                "price": 2.0,
+                "price": 1.95,
                 "point": -2.0
               },
               {
                 "name": "Cape Verde",
-                "price": 1.91,
+                "price": 1.95,
                 "point": 2.0
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.87,
+                "price": 1.85,
                 "point": 2.75
               },
               {
                 "name": "Under",
-                "price": 2.02,
+                "price": 2.04,
                 "point": 2.75
               }
             ]
@@ -546,11 +345,11 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Colombia",
@@ -558,42 +357,42 @@
               },
               {
                 "name": "Ghana",
-                "price": 7.34
+                "price": 7.4
               },
               {
                 "name": "Draw",
-                "price": 4.0
+                "price": 4.05
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Colombia",
-                "price": 1.94,
+                "price": 1.92,
                 "point": -1.0
               },
               {
                 "name": "Ghana",
-                "price": 1.96,
+                "price": 1.99,
                 "point": 1.0
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.02,
+                "price": 1.99,
                 "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.88,
+                "price": 1.9,
                 "point": 2.25
               }
             ]
@@ -613,54 +412,54 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Canada",
-                "price": 4.79
+                "price": 5.2
               },
               {
                 "name": "Morocco",
-                "price": 1.85
+                "price": 1.79
               },
               {
                 "name": "Draw",
-                "price": 3.48
+                "price": 3.5
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Canada",
-                "price": 2.05,
-                "point": 0.5
+                "price": 1.84,
+                "point": 0.75
               },
               {
                 "name": "Morocco",
-                "price": 1.86,
-                "point": -0.5
+                "price": 2.08,
+                "point": -0.75
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 2.07,
+                "price": 2.06,
                 "point": 2.25
               },
               {
                 "name": "Under",
-                "price": 1.83,
+                "price": 1.84,
                 "point": 2.25
               }
             ]
@@ -680,33 +479,33 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "France",
-                "price": 1.2
+                "price": 1.19
               },
               {
                 "name": "Paraguay",
-                "price": 16.48
+                "price": 17.48
               },
               {
                 "name": "Draw",
-                "price": 7.14
+                "price": 7.19
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "France",
-                "price": 2.03,
+                "price": 2.02,
                 "point": -2.0
               },
               {
@@ -718,16 +517,16 @@
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.98,
+                "price": 2.07,
                 "point": 3.0
               },
               {
                 "name": "Under",
-                "price": 1.9,
+                "price": 1.83,
                 "point": 3.0
               }
             ]
@@ -747,55 +546,189 @@
       {
         "key": "pinnacle",
         "title": "Pinnacle",
-        "last_update": "2026-07-01T08:23:02Z",
+        "last_update": "2026-07-02T08:01:25Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Brazil",
-                "price": 1.92
+                "price": 1.9
               },
               {
                 "name": "Norway",
-                "price": 4.21
+                "price": 4.09
               },
               {
                 "name": "Draw",
-                "price": 3.61
+                "price": 3.76
               }
             ]
           },
           {
             "key": "spreads",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Brazil",
-                "price": 1.93,
+                "price": 1.92,
                 "point": -0.5
               },
               {
                 "name": "Norway",
-                "price": 1.98,
+                "price": 1.99,
                 "point": 0.5
               }
             ]
           },
           {
             "key": "totals",
-            "last_update": "2026-07-01T08:23:02Z",
+            "last_update": "2026-07-02T08:01:25Z",
             "outcomes": [
               {
                 "name": "Over",
-                "price": 1.97,
-                "point": 2.5
+                "price": 1.99,
+                "point": 2.75
               },
               {
                 "name": "Under",
-                "price": 1.92,
-                "point": 2.5
+                "price": 1.9,
+                "point": 2.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e61a7b471cadc8e3849158ed59d49cab",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-07-06T00:00:00Z",
+    "home_team": "Mexico",
+    "away_team": "England",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-07-02T08:01:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "England",
+                "price": 2.57
+              },
+              {
+                "name": "Mexico",
+                "price": 3.04
+              },
+              {
+                "name": "Draw",
+                "price": 3.18
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "England",
+                "price": 1.8,
+                "point": -0.0
+              },
+              {
+                "name": "Mexico",
+                "price": 2.13,
+                "point": 0.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.9,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 1.98,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "810f80b3ae79f5e86b3747ca15718ed8",
+    "sport_key": "soccer_fifa_world_cup",
+    "sport_title": "FIFA World Cup",
+    "commence_time": "2026-07-07T00:00:00Z",
+    "home_team": "USA",
+    "away_team": "Belgium",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": "2026-07-02T08:01:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "Belgium",
+                "price": 2.78
+              },
+              {
+                "name": "USA",
+                "price": 2.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.47
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "Belgium",
+                "price": 2.02,
+                "point": -0.0
+              },
+              {
+                "name": "USA",
+                "price": 1.89,
+                "point": 0.0
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2026-07-02T08:01:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.0,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": 1.89,
+                "point": 2.75
               }
             ]
           }
